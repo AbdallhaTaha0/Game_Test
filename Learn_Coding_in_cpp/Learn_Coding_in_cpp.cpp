@@ -5,6 +5,7 @@ using namespace std;
 int actual_size;
 struct Product
 {
+    int x;
     int SerialNumber;
     int Quantity;
     int Sailes;
